@@ -1,0 +1,257 @@
+﻿Producto 1 #
+
+
+
+Nombre: Hacha. #
+
+
+
+Precio: 12.99 #
+
+
+
+Descripción: Herramienta utilizada para talar árboles. #
+
+
+
+Cantidad: 50 #
+
+
+
+Almacén: 3 #
+
+
+
+
+
+
+Producto 2 #
+
+
+
+Nombre: Silla amarilla. #
+
+
+
+Precio: 30 #
+
+
+
+Descripción: silla color amarillo para decorar tu casa. #
+
+
+
+Cantidad: 25 #
+
+
+
+Almacén: 1 #
+
+
+
+
+
+Producto 3 
+#
+
+
+Nombre: Semillas Rosas. #
+
+
+
+Precio: 7.5 #
+
+
+
+Descripción: Semillas para poder sembrar Rosas. #
+
+
+
+Cantidad: 80 #
+
+
+
+Almacén: 2 #
+
+
+
+
+Producto 4
+
+ #
+
+Nombre: Sofá Marrón. #
+
+
+
+Precio: 300 #
+
+
+
+Descripción: Sofá cama de color marrón perfecto para las visitas. #
+
+
+
+Cantidad: 50 #
+
+
+
+Almacén: 1 #
+
+
+
+
+
+Producto 5 
+#
+
+
+Nombre: Semillas Tulipanes. #
+
+
+
+Precio: 9 #
+
+
+
+Descripción: Semillas para poder sembrar Tulipanes. #
+
+
+
+Cantidad: 60 #
+
+
+
+Almacén: 2 #
+
+
+
+
+Producto 6 #
+
+
+
+Nombre: Pala. #
+
+
+
+Precio: 13.40 #
+
+
+
+Descripción: Herramienta utilizada para cavar hoyos, útil para conseguir fósiles. #
+
+
+
+Cantidad: 20 #
+
+
+
+Almacén: 3 #
+
+
+
+
+
+
+Producto 7 #
+
+
+
+Nombre: Red de mariposas. #
+
+
+
+Precio: 17 #
+
+
+
+Descripción: Herramienta que te permite capturar distintos tipos de mariposas. #
+
+
+
+Cantidad: 10 #
+
+
+
+Almacén: 3 #
+
+
+
+
+
+
+Producto 8 #
+
+
+
+Nombre: Pared espacial. #
+
+
+
+Precio: 99.99 #
+
+
+
+Descripción: Papel tapiz con un diseño único del espacio para decorar tu casa. #
+
+
+
+Cantidad: 16 #
+
+
+
+Almacén: 1 #
+
+
+
+
+
+
+Producto 9 
+
+#
+
+Nombre: Cedro Joven. #
+
+
+
+Precio: 33 #
+
+
+
+Descripción: Plantalo y en un tiempo se convertirá en un gran árbol. #
+
+
+
+Cantidad: 33 #
+
+
+
+Almacén: 2 #
+
+
+
+
+
+Producto 10 #
+
+
+
+Nombre: Caña de pescar. #
+
+
+
+Precio: 60 #
+
+
+
+Descripción: Herramienta utilizada para pescar distintos tipos de peces. #
+
+
+
+Cantidad: 15 #
+
+
+
+Almacén: 3 #
